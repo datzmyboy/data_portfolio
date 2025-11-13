@@ -18,7 +18,7 @@ This is my **first full data analytics project** after completing a SQL course o
 I used **SQL** to extract and calculate KPIs from a pizza sales dataset, and **Python (Matplotlib)** for visualizations.  
 While working on this, I also learned how to use Matplotlib — which turned out to be an awesome tool for visual storytelling!
 
-![Pizza Project Screenshot](https://github.com/datzmyboy/data_portfolio/blob/main/Pixel-Art-Pizza-4.webp)
+![Pizza Project Screenshot](./Pixel-Art-Pizza-4.webp)
 
 
 

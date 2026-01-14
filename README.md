@@ -25,7 +25,9 @@ While working on this, I also learned how to use Matplotlib — which turned out
 
 
 ## 📊 [Simulated Excel Data Analyst Case Study](https://github.com/datzmyboy/simulated_data1)
-My second fully completed data project, built in **Excel**, focusing on core skills commonly required for entry-level data analyst roles. While I am not yet an Excel expert, this project demonstrates my ability to use common analytical functions in practical scenarios. It also reflects my ability to research unfamiliar functions, understand their use cases, and apply them effectively in real-world analysis.
+My second fully completed data project, built in **Excel**, focusing on core skills commonly required for entry-level data analyst roles. 
+While I am not yet an Excel expert, this project demonstrates my ability to use common analytical functions in practical scenarios.
+It also reflects my ability to research unfamiliar functions, understand their use cases, and apply them effectively in real-world analysis.
 
 
 ![Simulated Screenshot](https://raw.githubusercontent.com/datzmyboy/data_portfolio/main/pic_for_project_2.png)

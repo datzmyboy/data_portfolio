@@ -28,7 +28,7 @@ While working on this, I also learned how to use Matplotlib — which turned out
 My second fully completed data project, built in **Excel**, focusing on core skills commonly required for entry-level data analyst roles.
 
 
-![Simulated Screenshot](https://github.com/datzmyboy/data_portfolio/blob/main/pic_for_project_2.png)
+![Simulated Screenshot](https://raw.githubusercontent.com/datzmyboy/data_portfolio/main/pic_for_project_2.png)
 
 
 ---

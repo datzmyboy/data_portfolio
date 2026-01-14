@@ -9,7 +9,7 @@ Since I’m already comfortable with **Python**, I decided to leverage it and di
 ---
 
 ### 🧰 Tools
-**Python** | **SQL**
+**Python** | **SQL** | **EXCEL**
 
 ---
 
@@ -21,7 +21,11 @@ While working on this, I also learned how to use Matplotlib — which turned out
 ![Pizza Project Screenshot](https://raw.githubusercontent.com/datzmyboy/data_portfolio/b470a3e6afc43cfa9b6827ff113baa850dc8c502/2.webp)
 
 
+---
 
+
+## 📊 [Simulated Excel Data Analyst Case Study](https://github.com/datzmyboy/simulated_data1)
+My second fully completed data project, built in **Excel**, focusing on core skills commonly required for entry-level data analyst roles.
 
 
 
